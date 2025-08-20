@@ -1,0 +1,18 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.zip
+
+# Ignore Python cache/bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+.venv/
+venv/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
